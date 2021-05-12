@@ -1,6 +1,7 @@
-import 'antd/dist/antd.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '../public/css/style.css';
+
+import "bootstrap/dist/css/bootstrap.min.css";
+import "antd/dist/antd.css";
+import "../public/css/style.css";
 
 import TopNav from '../components/TopNav'
 
